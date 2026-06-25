@@ -36,15 +36,15 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <!-- Development, Platforms & Cloud -->
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-### 📊 GitHub Activity & Statistics
+
 
 ### 📊 GitHub Activity & Statistics
 
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=47e6b1&title_color=47e6b1)
+![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=b4befe&title_color=cba6f7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=47e6b1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=cba6f7)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=47e6b1&fire=47e6b1&currStreakLabel=47e6b1)
+![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f38ba8&currStreakLabel=b4befe)
 
 
 
