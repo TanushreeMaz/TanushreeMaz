@@ -29,8 +29,6 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 # 💻 Tech Stack
 
-### Programming & Databases
-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" />
 </a>
@@ -38,10 +36,6 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
-
----
-
-### Data Analysis & Visualization
 
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
@@ -59,10 +53,6 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" />
 </a>
 
----
-
-### Business Intelligence
-
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
 </a>
@@ -74,10 +64,6 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
 </a>
-
----
-
-### Tools
 
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=jupyter" />
@@ -91,7 +77,6 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <img src="https://skillicons.dev/icons?i=azure" />
 </a>
 
----
 
 ### 📊 GitHub Stats
 
