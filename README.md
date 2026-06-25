@@ -27,20 +27,9 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ---
 
-## 💻 Technical Skills
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tanushree-mazumdar2195)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TanushreeMaz)
-
-🔗 Portfolio: https://tanushreemaz.github.io
-
----
-
 # 💻 Tech Stack
 
-# Programming & Databases
+### Programming & Databases
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -52,7 +41,7 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ---
 
-# Data Analysis & Visualization
+### Data Analysis & Visualization
 
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
@@ -72,7 +61,7 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ---
 
-# Business Intelligence
+### Business Intelligence
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
@@ -88,7 +77,7 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ---
 
-# Tools
+### Tools
 
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=jupyter" />
@@ -104,14 +93,19 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ---
 
-
-# GitHub Stats
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight)
+
+### 📊 GitHub Stats
+
+![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true)
 
 
 
