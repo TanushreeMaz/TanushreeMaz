@@ -53,24 +53,18 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <br />
 
 <div align="center">
-  <table style="display: inline-block; max-width: 600px;">
-    <tr>
-      <td bgcolor="#000000" style="padding: 24px 45px; border: 1px solid #30363d; border-radius: 50px; text-align: center;">
-        <p style="margin: 0; line-height: 1.6;">
-          <font color="#e0af68" size="5"><b>“</b></font>
-          <font color="#ffffff" size="4">
-            <i>Risk taught me to look closely; analytics taught me to see patterns. The raw figures are always silent until you build a clean pipeline to let them speak.</i>
-          </font>
-          <font color="#e0af68" size="5"><b>”</b></font>
-        </p>
-        <p style="margin: 10px 0 0 0; text-align: right;">
-          <font color="#79c0ff" size="3">
-            <i>— Tanushree Mazumdar</i>
-          </font>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; max-width: 550px; background-color: #000000; padding: 24px 36px; border: 1px solid #30363d; border-radius: 50px; text-align: left;">
+    <p style="margin: 0; line-height: 1.6;">
+      <font color="#ffffff" size="4">
+        <i>" Risk taught me to look closely; analytics taught me to see patterns. The raw figures are always silent until you build a clean pipeline to let them speak. "</i>
+      </font>
+    </p>
+    <p style="margin: 12px 0 0 0; text-align: left;">
+      <font color="#79c0ff" size="3">
+        <i>— Tanushree Mazumdar</i>
+      </font>
+    </p>
+  </div>
 </div>
 
 
