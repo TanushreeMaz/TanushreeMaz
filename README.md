@@ -1,54 +1,27 @@
-## 🌟 About Me
+# 💫 About Me:
+Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in data analysis, dashboard development, business reporting, and machine learning projects.<br><br>Completed a Master's Program in Data Analytics through Simplilearn × IBM and currently seeking opportunities in Data Analytics, Business Intelligence, and Reporting.<br><br>My portfolio includes end-to-end analytics projects across SaaS, Retail, Healthcare, Banking, and Demographic datasets, applying data cleaning, exploratory data analysis, visualization, and predictive modeling techniques to generate actionable business insights.<br><br>Alongside analytics training and internship experience, I bring a background in Finance, Risk Assessment, and Operations, providing a strong understanding of business processes and data-driven decision-making.<br><br>I enjoy transforming complex datasets into meaningful insights and continuously expanding my expertise in SQL, Python, Power BI, Tableau, and modern analytics practices.<br><br>
 
 
-Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in data analysis, dashboard development, business reporting, and machine learning projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanushree-mazumdar2195/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tanushreemazumdar4684) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tanushree Mazumdar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanushree.mazumdar21@gmail.com) 
 
-Completed a Master's Program in Data Analytics through Simplilearn × IBM and currently seeking opportunities in Data Analytics, Business Intelligence, and Reporting.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tansushree.mazumdar21@gmail.com&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tansushree.mazumdar21@gmail.com&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tansushree.mazumdar21@gmail.com&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My portfolio includes end-to-end analytics projects across SaaS, Retail, Healthcare, Banking, and Demographic datasets, applying data cleaning, exploratory data analysis, visualization, and predictive modeling techniques to generate actionable business insights.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tansushree.mazumdar21@gmail.com&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-Alongside analytics training and internship experience, I bring a background in Finance, Risk Assessment, and Operations, providing a strong understanding of business processes and data-driven decision-making.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I enjoy transforming complex datasets into meaningful insights and continuously expanding my expertise in SQL, Python, Power BI, Tableau, and modern analytics practices.
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tansushree.mazumdar21@gmail.com&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=tansushree.mazumdar21@gmail.com&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushree-mazumdar2195)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushreeMaz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanushreemaz.github.io)
-
----
-
-<h3>💻 Tech Stack:</h3>
-
-<!-- Programming & Databases -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />                       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-
-<!-- Data Analysis & Visualization -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />                   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />       <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-
-<!-- Business Intelligence & Tools -->
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-<!-- Development, Platforms & Cloud -->
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-
-
-### 📊 GitHub Activity & Statistics
-
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e0af68&text_color=c9d1d9&icon_color=79c0ff&stats_color=79c0ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=e0af68&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&hide_border=true&background=0d1117&ring=e0af68&fire=e0af68&currStreakLabel=e0af68&currStreakNum=79c0ff&sideLabels=c9d1d9&dates=79c0ff&sideNums=e0af68)
-
-
-
-### 🎯 Data Analytics Quote
-
-![Analytics Quote](https://api.quotable.io/random?tags=technology,data)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
