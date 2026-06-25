@@ -54,14 +54,15 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
   <table border="0">
     <tr>
       <td style="padding: 20px; background-color: #1a1c23; border-radius: 10px; border-left: 6px solid #6c5ce7;">
-        <em style="font-size: 1.1em; color: #e1e8ed;">"Data is a precious thing and will last longer than the systems themselves."</em>
+        <img src="https://img.shields.io/badge/%E2%80%9C-6c5ce7?style=flat-square&logoColor=white" alt="quote-open">
+        <br/>
+        <em style="font-size: 1.1em; color: #e1e8ed;">Data is a precious thing and will last longer than the systems themselves.</em>
         <br/><br/>
         <div align="right" style="color: #6c5ce7; font-weight: bold;">— Tim Berners-Lee</div>
       </td>
     </tr>
   </table>
 </div>
-
 
 
 
