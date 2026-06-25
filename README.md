@@ -38,22 +38,13 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ### 📊 GitHub Activity & Statistics
 
-<p align="left">
-  <a href="https://github.com/TanushreeMaz">
-    <img src="https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanushree's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/TanushreeMaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-  </a>
-</p>
+### 📊 GitHub Activity & Statistics
 
-<p align="left">
-  <a href="https://github.com/TanushreeMaz">
-    <img src="https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=47e6b1&title_color=47e6b1)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=47e6b1)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=47e6b1&fire=47e6b1&currStreakLabel=47e6b1)
 
 
 
