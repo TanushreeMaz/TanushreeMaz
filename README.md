@@ -53,18 +53,18 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <br />
 
 <div align="center">
-  <table width="600px" style="max-width: 600px; border-collapse: collapse;">
+  <table width="650px" style="max-width: 650px; border-collapse: collapse;">
     <tr>
-      <td bgcolor="#000000" align="left" style="padding: 30px 40px; border: 1px solid #30363d; border-radius: 24px;">
-        <p style="margin: 0; line-height: 1.6; text-align: left;">
-          <font color="#e0af68" size="6"><b>“</b></font>
-          <font color="#ffffff" size="5">
+      <td bgcolor="#000000" align="left" style="padding: 32px 40px; border: 1px solid #30363d; border-radius: 16px;">
+        <p style="margin: 0; line-height: 1.6; text-align: left; font-family: 'Georgia', serif;">
+          <font color="#e0af68" style="font-size: 28px; font-weight: bold; vertical-align: middle; line-height: 0;">“</font>
+          <font color="#ffffff" style="font-size: 18px; font-weight: 500;">
             Risk taught me to look closely; analytics taught me to see patterns. The raw figures are always silent until you build a clean pipeline to let them speak.
           </font>
-          <font color="#e0af68" size="6"><b>”</b></font>
+          <font color="#e0af68" style="font-size: 28px; font-weight: bold; vertical-align: middle; line-height: 0;">”</font>
         </p>
-        <p style="margin: 16px 0 0 0; text-align: right;">
-          <font color="#ffffff" size="4">
+        <p style="margin: 20px 0 0 0; text-align: left; font-family: 'Georgia', serif;">
+          <font color="#ffffff" style="font-size: 15px; letter-spacing: 0.5px;">
             <i>— Tanushree Mazumdar</i>
           </font>
         </p>
