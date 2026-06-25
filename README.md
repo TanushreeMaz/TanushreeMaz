@@ -45,3 +45,33 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=e0af68&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&hide_border=true&background=0d1117&ring=e0af68&fire=e0af68&currStreakLabel=e0af68&currStreakNum=79c0ff&sideLabels=c9d1d9&dates=79c0ff&sideNums=e0af68)
+
+
+
+### 🎯 Data Analytics Quote
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117" style="padding: 24px; border: 1px solid #30363d; border-radius: 6px;">
+      <p align="left" style="margin: 0;">
+        <font color="#e0af68" size="4">
+          <i><b>"Risk taught me to look closely; analytics taught me to see patterns. The raw figures are always silent until you build a clean pipeline to let them speak."</b></i>
+        </font>
+      </p>
+      <br />
+      <p align="right" style="margin: 0;">
+        <font color="#79c0ff" size="3">
+          <i>— Tanushree Mazumdar</i>
+        </font>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
