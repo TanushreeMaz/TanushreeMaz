@@ -37,36 +37,10 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 
-
 ### 📊 GitHub Activity & Statistics
 
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=b4befe&title_color=cba6f7)
+![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=e0af68&title_color=e0af68)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=cba6f7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=e0af68)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f38ba8&currStreakLabel=b4befe)
-
-
-
-### 📊 GitHub Activity & Statistics
-
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=a7f3d0&title_color=a7f3d0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a7f3d0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=a7f3d0&fire=ff9e3b&currStreakLabel=a7f3d0)
-
-
-
-### 📊 GitHub Activity & Statistics
-
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&theme=tokyonight&hide_border=true&icon_color=38bdf8&title_color=38bdf8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=38bdf8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=38bdf8&fire=ff6584&currStreakLabel=38bdf8)
-
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&theme=tokyonight&hide_border=true&ring=e0af68&fire=e0af68&currStreakLabel=e0af68)
