@@ -22,6 +22,7 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushree-mazumdar2195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushree-mazumdar2195)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushreeMaz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanushreemaz.github.io)
 
@@ -33,8 +34,8 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 <img src="https://skillicons.dev/icons?i=python" />
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
