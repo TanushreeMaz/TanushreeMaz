@@ -22,62 +22,32 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushree-mazumdar2195)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanushree-mazumdar2195)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushreeMaz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanushreemaz.github.io)
 
 ---
 
-# 💻 Tech Stack
+<h3>💻 Tech Stack:</h3>
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
+<!-- Programming & Databases -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
+<!-- Data Analysis & Visualization -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
-</a>
+<!-- Business Intelligence & Tools -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" />
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" />
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" />
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=jupyter" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=azure" />
-</a>
-
+<!-- Development, Platforms & Cloud -->
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 ### 📊 GitHub Stats
 
