@@ -50,29 +50,5 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ### 🎯 Data Analytics Quote
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td style="padding: 20px; background-color: #1a1c23; border-radius: 10px; border-left: 6px solid #f1c40f;">
-        <p align="center" style="margin: 0; line-height: 1.6;">
-          <!-- Opening Quote (Yellow/Mustard SVG) -->
-          <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='%23f1c40f'><path d='M14 17h3l2-5V7h-6v5h3zm-8 0h3l2-5V7H5v5h3z'/></svg>"c style="vertical-align: text-top; margin-right: 5px;" />
-          
-          <!-- Italicized Text -->
-          <em style="font-size: 1.15em; color: #e1e8ed; font-style: italic;">
-            Data is a precious thing and will last longer than the systems themselves.
-          </em>
-          
-          <!-- Closing Quote (Yellow/Mustard SVG) -->
-          <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='%23f1c40f'><path d='M10 7H7l-2 5v5h6v-5H8zm8 0h-3l-2 5v5h6v-5h-3z'/></svg>" style="vertical-align: text-top; margin-left: 5px;" />
-        </p>
-        <br/>
-        <div align="right" style="color: #f1c40f; font-weight: bold; font-size: 0.95em;">— Tim Berners-Lee</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
+![Analytics Quote](https://api.quotable.io/random?tags=technology,data)
 
