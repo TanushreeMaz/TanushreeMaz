@@ -40,8 +40,8 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ### 📊 GitHub Activity & Statistics
 
-![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff)
+![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e0af68&text_color=c9d1d9&icon_color=79c0ff&stats_color=79c0ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=e0af68&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&hide_border=true&background=0d1117&ring=e0af68&fire=e0af68&currStreakLabel=e0af68&sideLabels=c9d1d9&dates=79c0ff&sideNums=79c0ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=TanushreeMaz&hide_border=true&background=0d1117&ring=e0af68&fire=e0af68&currStreakLabel=e0af68&currStreakNum=79c0ff&sideLabels=c9d1d9&dates=79c0ff&sideNums=e0af68)
