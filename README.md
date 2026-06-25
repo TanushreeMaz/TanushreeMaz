@@ -50,29 +50,17 @@ I enjoy transforming complex datasets into meaningful insights and continuously 
 
 ### 🎯 Data Analytics Quote
 
-<br />
-
 <div align="center">
-  <table width="650px" style="max-width: 650px; border-collapse: collapse;">
+  <table border="0">
     <tr>
-      <td bgcolor="#000000" align="left" style="padding: 32px 40px; border: 1px solid #30363d; border-radius: 16px;">
-        <p style="margin: 0; line-height: 1.6; text-align: left; font-family: 'Georgia', serif;">
-          <font color="#e0af68" style="font-size: 28px; font-weight: bold; vertical-align: middle; line-height: 0;">“</font>
-          <font color="#ffffff" style="font-size: 18px; font-weight: 500;">
-            Risk taught me to look closely; analytics taught me to see patterns. The raw figures are always silent until you build a clean pipeline to let them speak.
-          </font>
-          <font color="#e0af68" style="font-size: 28px; font-weight: bold; vertical-align: middle; line-height: 0;">”</font>
-        </p>
-        <p style="margin: 20px 0 0 0; text-align: left; font-family: 'Georgia', serif;">
-          <font color="#ffffff" style="font-size: 15px; letter-spacing: 0.5px;">
-            <i>— Tanushree Mazumdar</i>
-          </font>
-        </p>
+      <td style="padding: 20px; background-color: #1a1c23; border-radius: 10px; border-left: 6px solid #6c5ce7;">
+        <em style="font-size: 1.1em; color: #e1e8ed;">"Data is a precious thing and will last longer than the systems themselves."</em>
+        <br/><br/>
+        <div align="right" style="color: #6c5ce7; font-weight: bold;">— Tim Berners-Lee</div>
       </td>
     </tr>
   </table>
 </div>
-
 
 
 
