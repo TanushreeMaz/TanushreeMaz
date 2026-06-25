@@ -1,11 +1,6 @@
 ## 🌟 About Me
 
 
-# 👋 Hi, I'm Tanushree Mazumdar
-
-## Data Analyst | SQL | Power BI | Python | Tableau
-
-
 Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in data analysis, dashboard development, business reporting, and machine learning projects.
 
 Completed a Master's Program in Data Analytics through Simplilearn × IBM and currently seeking opportunities in Data Analytics, Business Intelligence, and Reporting.
