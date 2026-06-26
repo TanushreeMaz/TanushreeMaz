@@ -11,7 +11,9 @@ Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Exc
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TanushreeMaz&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true) ![](https://streak-stats.demolab.com?user=TanushreeMaz&theme=vision-friendly-dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz&theme=vision-friendly-dark&hide_border=true&layout=compact)
+https://github-readme-stats.vercel.app/api?username=TanushreeMaz
+https://github-readme-stats.vercel.app/api/top-langs/?username=TanushreeMaz
+https://streak-stats.demolab.com?user=TanushreeMaz
 
 
 ### ✍️ Random Dev Quote
